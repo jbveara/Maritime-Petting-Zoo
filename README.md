@@ -11,6 +11,8 @@ The NMEA 2000 standard was developed....
 ## Please DO pet the animals (maritime simulator overview)
 Here is a fancy diagram of the simulator
 
+![PettingZooBlockDiagram](/main/PettingZooBlockDiagram.pdf)
+
 Here are some steps the follow/buttons to press/
 
 Here is a little challenge for those that are interested
